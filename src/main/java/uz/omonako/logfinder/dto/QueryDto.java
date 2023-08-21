@@ -1,4 +1,4 @@
-package org.example;
+package uz.omonako.logfinder.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
